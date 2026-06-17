@@ -1,8 +1,10 @@
 langchain
 ipkernel
 python-dotenv
-langchain_community
+langchain-community
 pypdf
 bs4
 arxiv
 langchain-text-splitters
+langchain-openai
+sentences_transformers
